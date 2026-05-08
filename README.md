@@ -134,8 +134,8 @@ The source code, design, logic, and content may not be copied, reused, modified,
 
 <h2>👤 Author</h2>
 
-Jainish Devpura
+Priyanshu Khariwal
 
-Web Developer | Full-Stack Engineer
+AI/ML Engineer | Full-Stack Engineer
 
-GitHub: https://github.com/Jainishd24
+GitHub: https://github.com/priyanshu-khariwal
