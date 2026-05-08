@@ -88,7 +88,7 @@ Frontend: React.js, Tailwind CSS
 
 Backend: Node.js
 
-Database & Auth: Supabase
+Database & Auth: Supabase(PostgreSQL)
 
 UI/UX: Responsive design with light & dark modes
 
